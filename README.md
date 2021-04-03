@@ -1,6 +1,6 @@
 # Accounts
 Userame-Admin
-Passqord-123
+Password-123
 
 Steps
 1. Download and install sql localdb 2014 ----30-40MB 
